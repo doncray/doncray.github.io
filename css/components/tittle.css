@@ -1,0 +1,15 @@
+h1 {
+    
+    background-color: #62C370;
+    text-shadow: 4px 4px 0px black; /* Sombra no texto */
+    color: #5D5FEF;
+    font-family: "Press Start 2P", sans-serif;
+    
+
+    position: absolute;
+    width: 676px;
+    height: 199px;
+    left: 77px;
+    top: 197px;
+    
+}
